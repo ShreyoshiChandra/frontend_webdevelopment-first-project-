@@ -1,0 +1,51 @@
+img{
+    width: 200px;
+    height: 200px;;
+}
+td{
+    text-align:center;
+    padding:10px;
+}
+label{
+    justify-content:center;
+    align-items: center;
+    text-align:center;
+    color:blueviolet;
+    font-family:'Times New Roman';
+    font-size: 20;
+    font-weight: bold;
+}
+input{
+    justify-content:center;
+    align-items: center;
+    text-align:center;
+    border:2px groove black;
+    font-family:'Arial';
+    font-size:20 px;
+    font-weight: bold;
+}
+p{
+    font-size: 30px;
+    font-family: 'Times New Roman';
+    background-color:10 px;
+}
+    form{
+        justify-content:center;
+        align-items: center;
+        background-color:aqua;
+        font-size:30 px;
+        height: 500%;
+        width:100%;
+        padding:10px;
+    }
+    button{
+        background-color:fuchsia;
+        color:green;
+       text-align:center;
+       width: 100px;
+       font-weight: bold;
+    }
+    form{
+        border: 2px;
+    }
+    
